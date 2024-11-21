@@ -2,7 +2,7 @@
     "name": "Laravel Development Environment with Docker Compose",
     "dockerComposeFile": "docker-compose.yml",
     "service": "laravel.test",
-    "workspaceFolder": "/var/www/html",
+    "workspaceFolder": "/workspace",
     "forwardPorts": [
       80,
       5173,
